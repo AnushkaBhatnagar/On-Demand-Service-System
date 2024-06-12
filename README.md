@@ -1,6 +1,6 @@
 # On-Demand Service System
 
-This system provides users with day to day services which can be easily booked from the comfort of their homes. It connects customers to reliable experts from different fields by utilizing minimum resources. 
+This system provides users with day-to-day services which can be easily booked from the comfort of their homes. It connects customers to reliable experts from different fields by utilizing minimum resources. 
 
 This project has been built as part of the Object-Oriented Programming (OOPs) course, using C++ and file handling to store and retrieve data.
 
